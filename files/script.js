@@ -11,8 +11,8 @@
 
 /* ---- EDIT THESE ---- */
 const NAME   = "Mqadeh";
-const EMAIL  = "you@example.com";
-const GITHUB = "https://github.com/YOUR-USERNAME";
+const EMAIL  = "maedesameni84@example.com";
+const GITHUB = "https://github.com/MaedehSam";
 const PAGES  = [["index.html","Home"],["about.html","About"],["work.html","Work"],["journal.html","Journal"],["shrine.html","Shrine"]];
 
 document.documentElement.classList.add("js");
