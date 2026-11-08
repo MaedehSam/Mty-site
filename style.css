@@ -113,7 +113,7 @@ button.play:hover,button.next:hover{background:var(--peri);color:var(--ink)}
 .icons{list-style:none;padding:0;display:flex;flex-wrap:wrap;gap:1.2rem}
 .icons li{display:flex;flex-direction:column;align-items:center;gap:.4rem;width:110px;padding:1rem .5rem;border:1px dashed var(--peri);border-radius:55px 55px 8px 8px;transition:transform .2s}
 .icons li:hover{transform:translateY(-6px) rotate(-3deg)}
-.icons svg{width:42px;height:42px;fill:var(--ice);color:var(--ice)}
+.icons svg{width:30px;height: 30px;px;fill:var(--ice);color:var(--ice)}
 
 /* ===== 9. FOOTER ===== */
 .foot{text-align:center;padding:3rem 1rem;border-top:1px solid rgba(143,168,255,.25)}
